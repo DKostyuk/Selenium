@@ -1,7 +1,447 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="054fa095-bc4d-4df2-a131-a9f544a94a56" name="Default" comment="" />
+    <list default="true" id="054fa095-bc4d-4df2-a131-a9f544a94a56" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/001_cosmo_file.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/001_service_file.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/11111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Alexandra Brow master Kiev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Alexandra Brow master Kiev_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Alexandra Brow master Kiev_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Alexandra Brow master Kiev_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/DEMO_2-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/DEMO_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/DEMO_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/DEMO_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/FBI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/FBI_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/FBI_ Классическое Наращивание Ресниц .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/FBI_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Kate Demish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Kate Demish_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Kate Demish_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Kate Demish_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Kate Demish_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Kate Demish_ Моделирование Бровей Пинцетом .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Kate Demish_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/O. lya lya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/O. lya lya_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/O. lya lya_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/O. lya lya_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/O. lya lya_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/O. lya lya_ Укладка Волос Обычная .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Self make up brow Kiev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Self make up brow Kiev_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Self make up brow Kiev_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Self make up brow Kiev_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Self make up brow Kiev_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Self make up brow Kiev_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/make_up_ by_di___.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/make_up_ by_di____ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/make_up_ by_di____ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/make_up_ by_di____ Укладка Волос Обычная .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/vereiko makeup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/vereiko makeup_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/vereiko makeup_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/vereiko makeup_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/your_beauty_agent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/your_beauty_agent_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/your_beauty_agent_ Консультация по Макияжу .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/your_beauty_agent_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/your_beauty_agent_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Александр Хиврич.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Александр Хиврич_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Александр Хиврич_ Женская Стрижка - Короткие Волосы .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Александр Хиврич_ Маникюр Шеллак .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Александр Хиврич_ Педикюр и Гелевое Покрытие .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Александр Хиврич_ Традиционное Окрашивание Волос .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алина Бондарь.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алина Бондарь_ Nude-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алина Бондарь_ Аквагрим .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алина Бондарь_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алина Бондарь_ Детский Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алина Бондарь_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алина Бондарь_ Макияж для Особых Случаев .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алина Бондарь_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алина Бондарь_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Гуменюк.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Гуменюк_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Гуменюк_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Гуменюк_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Гуменюк_ Коктейльная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Гуменюк_ Лифтинг-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Гуменюк_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Гуменюк_ Накладные Ресницы .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Гуменюк_ Пробная Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Гуменюк_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Маковецкая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Маковецкая_ Микроблейдинг .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Алла Маковецкая_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анастасия Руденко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анастасия Руденко_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анастасия Руденко_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анастасия Руденко_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Make-Up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Make-Up_ Nude-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Make-Up_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Make-Up_ Детский Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Make-Up_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Make-Up_ Макияж для Особых Случаев .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Make-Up_ Накладные Ресницы .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Make-Up_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Make-Up_ Создание Образа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Алдунова.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Алдунова_ Аквагрим .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Алдунова_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Алдунова_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Алдунова_ Коррекция Бровей Пинцетом .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Алдунова_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Алдунова_ Лифтинг-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Алдунова_ Макияж для Особых Случаев .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Алдунова_ Моделирование Бровей Пинцетом .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Алдунова_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Домашовец.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Домашовец_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Домашовец_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Домашовец_ Детский Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Домашовец_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Домашовец_ Конский Хвост .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Домашовец_ Консультация по Макияжу .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Домашовец_ Макияж для Особых Случаев .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Домашовец_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Домашовец_ Мужской Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Домашовец_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Корниенко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Корниенко_ Nude-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Корниенко_ Коррекция Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Корниенко_ Коррекция Бровей Нитью (Тридинг) .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Корниенко_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Корниенко_ Ламинирование Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Корниенко_ Ламинирование Ресниц .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Корниенко_ Мужская Коррекция Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Корниенко_ Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Корниенко_ Окрашивание Ресниц .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Савченко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Савченко_ Аквагрим .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Савченко_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Савченко_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Савченко_ Детский Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Савченко_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Савченко_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Савченко_ Мужской Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Савченко_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Столяр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Столяр_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Столяр_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Столяр_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Анна Столяр_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Арина Баракова.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Арина Баракова_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Арина Баракова_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Арина Баракова_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Арина Баракова_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Арина Баракова_ Укладка Волос Обычная .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Валентина Землянская.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Валентина Землянская_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Валентина Землянская_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Варвара Акулова.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Варвара Акулова_ Аквагрим .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Варвара Акулова_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Варвара Акулова_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Варвара Акулова_ Женская Стрижка - Волосы Средней Длины .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Варвара Акулова_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Варвара Акулова_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Виктория Хапун.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Виктория Хапун_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Виктория Хапун_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Виктория Хапун_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Виктория Хапун_ Плетение Косы .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Виктория Хапун_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Виктория Хапун_ Укладка Волос Обычная .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Вита Андрейченко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Вита Андрейченко_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Вита Андрейченко_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Вита Андрейченко_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Вита Андрейченко_ Коктейльная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Вита Андрейченко_ Моделирование Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарина Скиба.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарина Скиба_ Аквагрим .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарина Скиба_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарина Скиба_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарина Скиба_ Лифтинг-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарина Скиба_ Макияж для Особых Случаев .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарина Скиба_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарина Скиба_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарья Киналь.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарья Киналь_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарья Киналь_ Коррекция Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарья Киналь_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарья Киналь_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Дарья Киналь_ Укладка Волос Обычная .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Диана Кириченко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Диана Кириченко_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Диана Кириченко_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Диана Кириченко_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Диана Кириченко_ Курс Повышения Квалификации Парикмахера .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Диана Кириченко_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Евгения Василенко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Евгения Василенко_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Евгения Василенко_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Евгения Василенко_ Коктейльный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Евгения Василенко_ Накладные Ресницы .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Евгения Василенко_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Аквагрим .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Детский Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Коктейльная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Коса Рыбий Хвост .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Макияж для Особых Случаев .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Мужской Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Накладные Ресницы .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Плетение Водопад .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Плетение Жгутиков .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Плетение Косы .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Пробная Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Укладка Волос Обычная .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Екатерина Бубнова_ Укладка Волос для Мужчин .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елена Григор.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елена Григор_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елена Калинина.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елена Калинина_ Ламинирование Ресниц .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елена Калинина_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елена Леснова.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елена Леснова_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елена Леснова_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елизавета Корж.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елизавета Корж_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елизавета Корж_ Моделирование Бровей Пинцетом .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Елизавета Корж_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ 3D Татуаж Губ .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Волосковый Татуаж Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Дарсонваль-терапия .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Камуфляж Шрамов .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Комбинированный Татуаж Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Компрессионное Обертывание .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Консультация по Макияжу .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Контур Губ с Растушевкой .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Коррекция Перманентного Макияжа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Лечение Акне .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Макияж для Особых Случаев .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Мануальная (Механическая) Чистка Лица .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Межресничный Татуаж Век .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Мужской Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Процедуры для Подростковой Кожи .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Пудровый Татуаж Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Татуаж Губ Растушевка .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Есения Или_ Татуаж Контура Губ .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Идём Покажу.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Идём Покажу_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Идём Покажу_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Идём Покажу_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Идём Покажу_ Ламинирование Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Идём Покажу_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Идём Покажу_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Инна Беланова.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Инна Беланова_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Инна Беланова_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Карина Левчук.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Карина Левчук_ Nude-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Карина Левчук_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Карина Левчук_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Кристина Пикуль.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Кристина Пикуль_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Кристина Пикуль_ Ламинирование Ресниц .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Кристина Пикуль_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ксюша Туманова.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ксюша Туманова_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ксюша Туманова_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ленка Пенка.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ленка Пенка_ Балаяж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ленка Пенка_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ленка Пенка_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ленка Пенка_ Горячее Капсульное Наращивание .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ленка Пенка_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ленка Пенка_ Женская Стрижка - Короткие Волосы .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ленка Пенка_ Кератиновое Выпрямление Волос .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ленка Пенка_ Мужские Стрижки .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Nude-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Дизайн и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Коррекция Бровей Воском .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Ламинирование Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Ламинирование Ресниц .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Мужская Коррекция Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Окрашивание Бровей Хной .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лиана Доронина_ Экспресс-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лолита Тамберг.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лолита Тамберг_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лолита Тамберг_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лолита Тамберг_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лолита Тамберг_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Лолита Тамберг_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Маргарита Федченко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Маргарита Федченко_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Маргарита Федченко_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Маргарита Федченко_ Классическое Наращивание Ресниц .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Маргарита Федченко_ Коррекция Нарощенных Ресниц .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Маргарита Федченко_ Ламинирование Ресниц .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Маргарита Федченко_ Объемное 2D Наращивание Ресниц .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Маргарита Федченко_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Марианна Марусич.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Марианна Марусич_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Марианна Марусич_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Марина Булах.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Марина Булах_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Марина Булах_ Женская Стрижка - Волосы Средней Длины .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Марина Булах_ Женская Стрижка - Короткие Волосы .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Марина Булах_ Женская Стрижка .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Марина Булах_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Мария Демченко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Мария Демченко_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Мария Демченко_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ 2D Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Биофиксация Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Детский Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Дизайн и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Коктейльный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Консультация по Макияжу .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Коррекция Бровей Пинцетом .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Ламинирование Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Лифтинг-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Макияж для Особых Случаев .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Моделирование Бровей Пинцетом .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Мужской Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Накладные Ресницы .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Окрашивание Бровей Хной .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Наталия Суслова_ Создание Образа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Nude-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Детский Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Коррекция и Моделирование Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Лифтинг-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Накладные Ресницы .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Окрашивание Бровей Хной .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Прически .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Пробная Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Бондарь_ Создание Образа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Рея.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Рея_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Рея_ Женская Стрижка .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Ольга Рея_ Укладка Волос Обычная .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Рина Смирнова.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Рина Смирнова_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Рина Смирнова_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Рина Смирнова_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Рина Смирнова_ Женская Стрижка - Волосы Средней Длины .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Рина Смирнова_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Алмазная Микродермабразия .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Альгинатная Маска .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Антистрессовый Массаж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Антицеллюлитный Массаж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Вакуумный Массаж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Классический Массаж Спины .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Комбинированная Чистка Лица .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Косметический Массаж Лица .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Креольский Массаж Бамбуковыми Палочками .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Лимфодренажный Массаж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Лифтинг-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Макияж для Особых Случаев .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Массаж Шейно-воротниковой Зоны .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Пластический Массаж Лица .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Процедура Глубокого Увлажнения Кожи Лица .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Расслабляющий Массаж Лица .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Салициловый Пилинг .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Устранение Темных Кругов под Глазами .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Фруктовый Пилинг .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Химический Пилинг Гликолевой Кислотой .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Электропорация .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Светлана Лескова_ Энзимный Пилинг .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/София Моисеенко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/София Моисеенко_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/София Моисеенко_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/София Моисеенко_ Коррекция и Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/София Моисеенко_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Консультация по Макияжу .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Коррекция Перманентного Макияжа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Макияж для Особых Случаев .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Межресничный Татуаж Век .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Микроблейдинг .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Мужской Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Мушка .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Окрашивание Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Пудровый Татуаж Бровей .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Добряк_ Создание Образа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Юраш.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Юраш_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Юраш_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Татьяна Юраш_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Юлия Лейченко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Юлия Лейченко_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Юлия Лейченко_ Дневной Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Юлия Лейченко_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Юлия Лейченко_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Юлия Майструк.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Юлия Майструк_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Юлия Майструк_ Вечерняя и Свадебная Прическа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Юлия Майструк_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Яна Кальницкая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Яна Кальницкая_ Nude-макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Яна Кальницкая_ Вечерний Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Яна Кальницкая_ Макияж для Фотосессии .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Яна Кальницкая_ Свадебный Макияж .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Яна Кальницкая_ Создание Образа .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/Яна Кальницкая_ Экспресс-макияж .png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/001_file.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/002_file.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/firefox.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/firefox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/basic/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/practic.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/practic.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,126 +462,29 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/test_01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic/practic.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/practic_000.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/practic_001.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/firefox.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" selection-start-line="5" selection-end-line="20" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/test_01.py" />
-        <option value="$USER_HOME$/Videos/Selenium WebDriver With Python 3.x - Novice To Ninja/13 Selenium WebDriver -_ Running Tests On Various Browsers/066 RunChromeTestsWindows.py" />
-        <option value="$PROJECT_DIR$/basic/test_01.py" />
-        <option value="$USER_HOME$/Videos/Selenium WebDriver With Python 3.x - Novice To Ninja/14 Selenium WebDriver -_ Finding Elements/077 FindByClassTag.py" />
-        <option value="$PROJECT_DIR$/basic/firefox.py" />
-        <option value="$PROJECT_DIR$/basic/practic.py" />
-        <option value="$PROJECT_DIR$/basic/practic_001.py" />
-        <option value="$PROJECT_DIR$/basic/practic_000.py" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="953" />
-    <option name="height" value="744" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1RbYDNd0FtA0zhDBPy8wnTAn8zg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python-graphene" />
-    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/basic" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -154,6 +497,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dmytro Kostyuk\PycharmProjects\Selenium\basic" />
       <recent name="C:\Users\DK\PycharmProjects\Selenium\basic" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -172,7 +516,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.practic_000">
+  <component name="RunManager" selected="Python.Demo">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,7 +537,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration name="077 FindByClassTag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DEMO_2-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -201,12 +545,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Videos/Selenium WebDriver With Python 3.x - Novice To Ninja/14 Selenium WebDriver -_ Finding Elements" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Videos/Selenium WebDriver With Python 3.x - Novice To Ninja/14 Selenium WebDriver -_ Finding Elements/077 FindByClassTag.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/DEMO_2-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DEMO_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/DEMO_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DEMO_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/DEMO_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/Demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,72 +647,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/practic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="practic_000" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/practic_000.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="practic_001" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Selenium" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/practic_001.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -314,11 +658,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.practic_000" />
-        <item itemvalue="Python.practic_001" />
-        <item itemvalue="Python.practic" />
+        <item itemvalue="Python.Demo" />
         <item itemvalue="Python.firefox" />
-        <item itemvalue="Python.077 FindByClassTag" />
+        <item itemvalue="Python.DEMO_4" />
+        <item itemvalue="Python.DEMO_2-1" />
+        <item itemvalue="Python.DEMO_2" />
       </list>
     </recent_temporary>
   </component>
@@ -343,105 +687,44 @@
       <workItem from="1563870999118" duration="659000" />
       <workItem from="1569348215552" duration="780000" />
       <workItem from="1569934490283" duration="354000" />
+      <workItem from="1569937142926" duration="1091000" />
+      <workItem from="1569938533404" duration="17266000" />
+      <workItem from="1571149121760" duration="39000" />
+      <workItem from="1571920592030" duration="37762000" />
+      <workItem from="1572252684187" duration="262000" />
+      <workItem from="1572254483967" duration="10615000" />
+      <workItem from="1572276081565" duration="10946000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32742000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2602118" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3529412" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32843137" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32843137" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://C:/Python371/Lib/subprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="1171" selection-start-line="1171" selection-end-line="1171" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Videos/Selenium WebDriver With Python 3.x - Novice To Ninja/13 Selenium WebDriver -_ Running Tests On Various Browsers/066 RunChromeTestsWindows.py" />
-    <entry file="file://$USER_HOME$/Videos/Selenium WebDriver With Python 3.x - Novice To Ninja/14 Selenium WebDriver -_ Finding Elements/073 FindByIdName.py" />
-    <entry file="file://$USER_HOME$/Videos/Selenium WebDriver With Python 3.x - Novice To Ninja/14 Selenium WebDriver -_ Finding Elements/076 FindByLinkText.py" />
-    <entry file="file://$PROJECT_DIR$/basic/000_file.txt" />
-    <entry file="file://$USER_HOME$/Videos/Selenium WebDriver With Python 3.x - Novice To Ninja/14 Selenium WebDriver -_ Finding Elements/077 FindByClassTag.py" />
-    <entry file="file://$USER_HOME$/Videos/Selenium WebDriver With Python 3.x - Novice To Ninja/19 Selenium WebDriver -_ Useful Methods And Properties/108 getAttribute.py" />
-    <entry file="file://$USER_HOME$/Videos/Selenium WebDriver With Python 3.x - Novice To Ninja/14 Selenium WebDriver -_ Finding Elements/075 FindByXPathCSS.py" />
-    <entry file="file://$PROJECT_DIR$/basic/test_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/practic_000.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/practic_001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/firefox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" selection-start-line="5" selection-end-line="20" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/practic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Selenium$DEMO_3.coverage" NAME="DEMO_3 Coverage Results" MODIFIED="1571987879947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/Selenium$DEMO_2.coverage" NAME="DEMO_2 Coverage Results" MODIFIED="1572249927214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/Selenium$DEMO_2_1.coverage" NAME="DEMO_2-1 Coverage Results" MODIFIED="1572265726947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/Selenium$practic.coverage" NAME="practic Coverage Results" MODIFIED="1569995331694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/Selenium$11111.coverage" NAME="11111 Coverage Results" MODIFIED="1571924278657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/Selenium$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1572354157452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/Selenium$firefox.coverage" NAME="firefox Coverage Results" MODIFIED="1572343053572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/Selenium$123.coverage" NAME="123 Coverage Results" MODIFIED="1572008449417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
+    <SUITE FILE_PATH="coverage/Selenium$DEMO_4.coverage" NAME="DEMO_4 Coverage Results" MODIFIED="1572269356388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic" />
   </component>
 </project>

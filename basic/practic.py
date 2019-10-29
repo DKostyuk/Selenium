@@ -24,7 +24,7 @@ class FindByIdName():
 
 
         # Save the window opener (current window, do not mistaken with tab... not the same)
-        main_window = driver.current_window_handle
+        # main_window = driver.current_window_handle
 
         if elementByLink is not None:
             # k = 1
@@ -53,15 +53,18 @@ class FindByIdName():
             wsh.SendKeys("{ENTER}")  # send the keys you want
             driver.implicitly_wait(10)
             driver.find_element_by_tag_name('body').send_keys(Keys.CONTROL + 't')
-            driver.switch_to.window(main_window)
+            # driver.switch_to.window(main_window)
             # driver.implicitly_wait(3)
-            # actionChains.send_keys("T").perform()
+            actionChains.send_keys(Keys.CONTROL + Keys.TAB).perform()
 
 
             # elementByLink[0].click()
-            driver.implicitly_wait(10)
+            driver.implicitly_wait(20)
 
-            imgCosmo = driver.find_element_by_xpath("//div[@class='thumb']/img")
+            imgCosmo = driver.find_element_by_xpath("//div[@class='avatar-cont']/img")
+            if imgCosmo is not None:
+                print("We found an element by XPATH")
+
             nameCosmo_url = imgCosmo.get_attribute("src")
             print('Image URL  ------', nameCosmo_url)
             my_list.append(nameCosmo_url)
@@ -79,7 +82,8 @@ class FindByIdName():
 
             wb = Workbook()
             ws = wb.active
-            file_name = "002_file.xlsx"
+            file_name = "008_file.xlsx"
+
             ws.append(my_list)
             wb.save(file_name)
 
